@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 420 300" role="img" aria-labelledby="title desc">
+  <title id="title">ECO Mart shopping cart</title>
+  <desc id="desc">A shopping cart carrying fresh vegetables and groceries.</desc>
+  <path d="M48 74h40l29 137c3 12 12 20 24 20h165" fill="none" stroke="#F8F5E9" stroke-linecap="round" stroke-linejoin="round" stroke-width="11"/>
+  <path d="M97 101h278l-28 108H121Z" fill="#B7D94C" stroke="#F8F5E9" stroke-linejoin="round" stroke-width="9"/>
+  <path d="m144 116 14 79m65-79 2 79m68-79-12 79M112 150h250m-235 31h227" fill="none" stroke="#F8F5E9" stroke-linecap="round" stroke-width="5" opacity=".95"/>
+  <circle cx="160" cy="259" r="24" fill="#B7D94C" stroke="#F8F5E9" stroke-width="9"/>
+  <circle cx="306" cy="259" r="24" fill="#B7D94C" stroke="#F8F5E9" stroke-width="9"/>
+  <circle cx="160" cy="259" r="8" fill="#245C3A"/><circle cx="306" cy="259" r="8" fill="#245C3A"/>
+  <path d="M153 100c-4-29 5-55 27-74 20 22 20 48 5 76" fill="#F3A33A" stroke="#EAF0E5" stroke-width="5"/>
+  <path d="M179 97c5-30 21-49 47-59 8 28-3 49-26 67" fill="#E86D45" stroke="#EAF0E5" stroke-width="5"/>
+  <path d="M216 98c0-31 14-54 39-68 13 26 7 50-13 71" fill="#B7D94C" stroke="#EAF0E5" stroke-width="5"/>
+  <path d="M230 100c10-31 31-48 61-51 2 29-13 50-40 62" fill="#2E8B57" stroke="#EAF0E5" stroke-width="5"/>
+  <path d="M260 99c15-28 39-40 68-37-3 29-22 46-51 53" fill="#5EBB62" stroke="#EAF0E5" stroke-width="5"/>
+  <path d="M174 81c-17-9-25-22-23-41 19 4 30 15 32 33m40 3c-4-19 2-34 18-46 10 18 7 34-7 48" fill="none" stroke="#B7D94C" stroke-linecap="round" stroke-width="8"/>
+  <path d="M31 147h39m-48 18h48m-38 18h37" fill="none" stroke="#B7D94C" stroke-linecap="round" stroke-width="6"/>
+</svg>

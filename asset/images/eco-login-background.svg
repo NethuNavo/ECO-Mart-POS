@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1600 900" preserveAspectRatio="xMidYMid slice">
+  <rect width="1600" height="900" fill="#F8F5E9"/>
+  <g opacity=".9">
+    <path d="M0 0h180C133 73 78 111 0 148Z" fill="#B7D94C"/>
+    <path d="M0 0c44 19 91 38 151 52C102 76 55 69 0 48Z" fill="#91B936"/>
+    <path d="M1600 0h-147c36 54 84 79 147 101Z" fill="#B7D94C"/>
+    <path d="M1600 0c-33 24-73 46-123 65 31 7 75-7 123-25Z" fill="#245C3A"/>
+    <path d="M0 900V741c54 32 84 81 102 159Z" fill="#245C3A"/>
+    <path d="M0 900h155c-34-60-82-88-155-103Z" fill="#B7D94C"/>
+    <path d="M0 900c47-49 87-97 117-158 7 58-26 113-67 158Z" fill="#80A92E"/>
+    <path d="M1600 900h-182c48-36 107-57 182-72Z" fill="#B7D94C"/>
+    <path d="M1600 900V758c-54 30-85 77-102 142Z" fill="#91B936"/>
+  </g>
+  <g fill="#245C3A" opacity=".94">
+    <path d="M1540 0c-17 51-40 88-70 117-10-48 13-87 70-117Z"/>
+    <path d="M60 900c12-55 36-95 74-124 7 50-18 92-74 124Z"/>
+    <path d="M1554 900c-10-53-34-92-73-120-7 49 19 89 73 120Z"/>
+  </g>
+</svg>

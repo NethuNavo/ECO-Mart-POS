@@ -1,0 +1,27 @@
+# Local secrets and machine-specific configuration
+.env
+.env.*
+!.env.example
+
+# Editor / operating-system files
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Runtime data and logs
+*.log
+logs/
+tmp/
+
+# Local database backups/exports (keep the checked-in schema/seed and migrations)
+database/backups/
+database/exports/
+database/*.bak
+database/*.dump
+
+# Archives and generated dependencies
+*.zip
+vendor/
+node_modules/

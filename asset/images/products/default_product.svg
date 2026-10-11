@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 480 360" role="img" aria-labelledby="title desc">
+  <title id="title">Product image unavailable</title>
+  <desc id="desc">A simple shopping basket illustration.</desc>
+  <rect width="480" height="360" rx="24" fill="#f1f5f9"/>
+  <circle cx="240" cy="170" r="104" fill="#dcfce7"/>
+  <path d="M157 170h166l-17 116H174z" fill="#16a34a"/>
+  <path d="m190 166 34-64m66 64-34-64" fill="none" stroke="#15803d" stroke-linecap="round" stroke-width="15"/>
+  <path d="M184 204h112m-106 37h100" stroke="#bbf7d0" stroke-linecap="round" stroke-width="12"/>
+  <text x="240" y="326" fill="#64748b" font-family="Arial, sans-serif" font-size="18" text-anchor="middle">Image unavailable</text>
+</svg>
